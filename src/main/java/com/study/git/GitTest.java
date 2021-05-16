@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("hello git github222");
         System.out.println("hello git github ssh");
         System.out.println("hello git github ssh222");
+        
+        System.out.println("hello git github pull");
     }
 }
